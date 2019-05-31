@@ -1,0 +1,2 @@
+# LocalLibrary
+Basic django learning.
