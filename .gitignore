@@ -13,6 +13,11 @@ develop-eggs/
 dist/
 downloads/
 eggs/
+# Text backup files
+*.bak
+
+# Database
+*.sqlite3
 .eggs/
 lib/
 lib64/
